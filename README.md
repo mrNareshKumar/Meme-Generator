@@ -1,4 +1,5 @@
 # LIVE DEMO :-  <a href="https://memegeneratornk.ccbp.tech/">Meme Generator</a>
+Image URL Example: https://assets.ccbp.in/frontend/react-js/nature-img.png
 
 In this project, let's build a **Meme Generator** app by applying the concepts we have learned till now.
 
